@@ -28,6 +28,8 @@ Tests can now be run with: `npm test`
 
 cd into `frontend/`
 
+If you're running the backend server in a different port than `3001` then edit `.env.development` to reflect the location of the server.
+
 Run with `yarn start`
 
 test with `yarn test`
