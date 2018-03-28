@@ -8,9 +8,9 @@ The given problem was solved by using ReactJS in the frontend and NodeJS in the 
 
 #### Backend
 
-Install PostgreSQL >= 9.5
+cd into `backend/` and run `npm install`
 
-cd into `backend/`
+Install PostgreSQL >= 9.5
 
 Create a database and run the given schema SQL script in it to initialize it.
 
@@ -26,7 +26,7 @@ Tests can now be run with: `npm test`
 
 #### Frontend
 
-cd into `frontend/`
+cd into `frontend/` and run `yarn install`
 
 If you're running the backend server in a different port than `3001` then edit `.env.development` to reflect the location of the server.
 
