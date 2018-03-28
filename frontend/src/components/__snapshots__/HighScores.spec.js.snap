@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test 1`] = `
+<div>
+  <div
+    className="container"
+  >
+    <section
+      className="section has-text-centered"
+    >
+      <h1
+        className="title is-loading"
+      >
+        High Scores
+      </h1>
+      <div
+        className="loader"
+        style={
+          Object {
+            "margin": "auto",
+          }
+        }
+      />
+    </section>
+  </div>
+</div>
+`;

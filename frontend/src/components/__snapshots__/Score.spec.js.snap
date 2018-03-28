@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test 1`] = `
+<table
+  className="table is-hoverable"
+>
+  <thead>
+    <tr>
+      <th>
+        Round
+      </th>
+      <th>
+        p1's move
+      </th>
+      <th>
+        p2's move
+      </th>
+      <th>
+        Winner
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr
+      key="0"
+    >
+      <td>
+        1
+      </td>
+      <td>
+        rock
+      </td>
+      <td>
+        rock
+      </td>
+      <td>
+        --
+      </td>
+    </tr>
+    <tr
+      key="1"
+    >
+      <td>
+        2
+      </td>
+      <td>
+        rock
+      </td>
+      <td>
+        rock
+      </td>
+      <td>
+        --
+      </td>
+    </tr>
+    <tr
+      key="2"
+    >
+      <td>
+        3
+      </td>
+      <td>
+        rock
+      </td>
+      <td>
+        rock
+      </td>
+      <td>
+        --
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

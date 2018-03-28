@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test 1`] = `
+<div
+  className="container"
+>
+  <section
+    className="section is-small columns"
+  >
+    <div
+      className="column"
+    >
+      <h1
+        className="title"
+      >
+        Round 1
+      </h1>
+      <h3
+        className="subtitle"
+      >
+        p1's Turn
+      </h3>
+      <div
+        className="field is-horizontal"
+      >
+        <label
+          className="label field-label is-normal"
+        >
+          Select Move:
+        </label>
+        <div
+          className="field-body"
+        >
+          <div
+            className="field is-narrow"
+          >
+            <div
+              className="control"
+            >
+              <div
+                className="select is-fullwidth"
+              >
+                <select
+                  onChange={[Function]}
+                  value="rock"
+                >
+                  <option
+                    key="rock"
+                    value="rock"
+                  >
+                    rock
+                  </option>
+                  <option
+                    key="paper"
+                    value="paper"
+                  >
+                    paper
+                  </option>
+                  <option
+                    key="scissors"
+                    value="scissors"
+                  >
+                    scissors
+                  </option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="control"
+      >
+        <button
+          className="button is-primary"
+          onClick={[Function]}
+        >
+          Ok
+        </button>
+      </div>
+    </div>
+    <div
+      className="column"
+    >
+      <h3
+        className="subtitle"
+      >
+        Score
+      </h3>
+      <Score
+        player1="p1"
+        player2="p2"
+        rounds={Array []}
+      />
+    </div>
+  </section>
+</div>
+`;
